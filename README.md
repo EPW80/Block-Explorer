@@ -22,25 +22,25 @@ This project is an Ethereum Block Explorer Clone, designed to interface with the
 
 ## Setup and Installation
 
-Prerequisites
+### Prerequisites
 
-1. Create an Alchemy API Key: If you haven't already, create a unique Alchemy API Mainnet key as described in the Alchemy documentation.
+Create an Alchemy API Key: If you haven't already, create a unique Alchemy API Mainnet key as described in the Alchemy documentation.
 
 ## Project Setup
 
-1. Clone the Repository:
+Clone the Repository:
 
 ```bash
 git clone https://github.com/your-username/ethereum-block-explorer-clone.git
 ```
 
-1. **Navigate to Project Directory**:
+**Navigate to Project Directory**:
 
 ```bash
 cd ethereum-block-explorer-clone
 ```
 
-1. Install Dependencies
+Install Dependencies
 
 ```bash
 npm install
@@ -57,7 +57,7 @@ REACT_APP_ALCHEMY_API_KEY=YOUR_ALCHEMY_API_KEY
 
 ```
 
-1. Start your application
+Start your application
 
 ```bash
 npm start
